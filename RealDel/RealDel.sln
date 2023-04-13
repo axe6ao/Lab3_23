@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealDel", "RealDel.csproj", "{88D66459-49B4-4D80-BEC3-1BFE597AEB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D66459-49B4-4D80-BEC3-1BFE597AEB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D66459-49B4-4D80-BEC3-1BFE597AEB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D66459-49B4-4D80-BEC3-1BFE597AEB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D66459-49B4-4D80-BEC3-1BFE597AEB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C672AE2-25CA-479A-A27D-ADDB25250AB7}
+	EndGlobalSection
+EndGlobal

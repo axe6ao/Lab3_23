@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FADP", "FADP.csproj", "{264FD684-E373-4491-9F5C-E78E89BCA52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264FD684-E373-4491-9F5C-E78E89BCA52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264FD684-E373-4491-9F5C-E78E89BCA52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264FD684-E373-4491-9F5C-E78E89BCA52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264FD684-E373-4491-9F5C-E78E89BCA52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C9B076-9DAC-42D4-90B3-F62254C23438}
+	EndGlobalSection
+EndGlobal
